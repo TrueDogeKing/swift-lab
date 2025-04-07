@@ -1,0 +1,62 @@
+[
+    {
+        "id": 201,
+        "user": { "id": 2, "name": "Spotify" },
+        "timestamp": "2024-03-30T12:00:00Z",
+        "likes": 7400000,
+        "views": 13400000,
+        "releaseDate": "2023-11-20T00:00:00Z",
+        "genre": "pop",
+        "duration": 182,
+        "artists": ["Luna Ray", "Neon Echo"],
+        "album": "Midnight Dreams"
+    },
+    {
+        "id": 202,
+        "user": { "id": 2, "name": "Spotify" },
+        "timestamp": "2024-03-30T12:00:00Z",
+        "likes": 5300000,
+        "views": 9100000,
+        "releaseDate": "2022-08-15T00:00:00Z",
+        "genre": "rap",
+        "duration": 205,
+        "artists": ["MC Thunder", "Lil Nova"],
+        "album": "Street Poetry"
+    },
+    {
+        "id": 203,
+        "user": { "id": 2, "name": "Spotify" },
+        "timestamp": "2024-03-30T12:00:00Z",
+        "likes": 9600000,
+        "views": 17800000,
+        "releaseDate": "2024-01-10T00:00:00Z",
+        "genre": "rock",
+        "duration": 225,
+        "artists": ["The Wild Shadows"],
+        "album": "Echoes of the Past"
+    },
+    {
+        "id": 204,
+        "user": { "id": 2, "name": "Spotify" },
+        "timestamp": "2024-03-30T12:00:00Z",
+        "likes": 4200000,
+        "views": 7300000,
+        "releaseDate": "2023-05-27T00:00:00Z",
+        "genre": "jazz",
+        "duration": 190,
+        "artists": ["Ella Blue", "Sax Malone"],
+        "album": "Moonlight Serenade"
+    },
+    {
+        "id": 205,
+        "user": { "id": 2, "name": "Spotify" },
+        "timestamp": "2024-03-30T12:00:00Z",
+        "likes": 5100000,
+        "views": 9200000,
+        "releaseDate": "2023-09-03T00:00:00Z",
+        "genre": "electronic",
+        "duration": 212,
+        "artists": ["DJ Pulse", "Synthwave Voyager"],
+        "album": "Neon Horizons"
+    }
+]
