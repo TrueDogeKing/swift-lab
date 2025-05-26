@@ -1,6 +1,3 @@
-// 5 na 5 pkt Filip Pudlak 198157
-
-
 import Foundation
 
 // City Model
