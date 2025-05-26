@@ -1,4 +1,3 @@
-// Filip Pudlak s198157 7na7
 import Foundation
 
 
