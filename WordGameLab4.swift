@@ -1,4 +1,3 @@
-// 198157 Filip Pudlak 5na5
 import Foundation
 
 struct WordGuessGame {
